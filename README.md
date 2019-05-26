@@ -18,3 +18,7 @@ Creating a SPA DAPP using geth cli and webj3
 ## Run App -- (in terminal)
 
 1. gulp serve
+
+## Install Web3 -- (in terminal)
+
+1. bower install web3
