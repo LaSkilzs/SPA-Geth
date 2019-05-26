@@ -22,3 +22,7 @@ Creating a SPA DAPP using geth cli and webj3
 ## Install Web3 -- (in terminal)
 
 1. bower install web3
+
+## Launch Geth cli
+
+1. geth --rinkeby --rpc --rpcaddr "localhost" --rpcport "8545" --rpcapi "web3,eth,net,personal" --rpccorsdomain "\*" --datadir "./data"
